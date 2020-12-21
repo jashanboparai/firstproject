@@ -1,2 +1,2 @@
 # firstproject
-ok
+ok edit 1
